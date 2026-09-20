@@ -2,7 +2,7 @@ package org.example.core.model;
 
 import jakarta.persistence.*;
 import lombok.*;
-import org.example.core.dto.BookingStatus;
+import org.example.core.dto.enums.BookingStatus;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
