@@ -59,7 +59,7 @@ QR-билеты и уведомления.
 
 | Слой           | Технологии                                               |
 |----------------|----------------------------------------------------------|
-| Frontend       | React + TypeScript, Axios, TailwindCSS                   |
+| Frontend       | React + JavaScript, Axios, TailwindCSS                   |
 | Backend        | Java 21, Spring Boot 3, Spring Security (JWT), JPA, AMQP |
 | БД             | PostgreSQL                                               |
 | Брокер         | RabbitMQ                                                 |
