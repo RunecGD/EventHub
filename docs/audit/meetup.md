@@ -8,7 +8,7 @@ https://www.meetup.com
 
 ## 3. Анализ архитектуры и логики
 
-**Условия проверки:** Wi-Fi, дом, Chrome, 22.09.2026.
+**Условия проверки:** Wi-Fi, дом, Chrome, 23.09.2026.
 
 - **Тип приложения:** Next.js (SSR + гидратация).
 - **API:** GraphQL. Актуальный URL: `https://api.meetup.com/gql-ext`.
