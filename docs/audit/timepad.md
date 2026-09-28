@@ -8,7 +8,7 @@ https://timepad.ru
 
 ## 3. Анализ архитектуры и логики
 
-**Условия проверки:** Wi-Fi, дом, Chrome, 22.09.2026.
+**Условия проверки:** Wi-Fi, дом, Chrome, 23.09.2026.
 
 - **Backend:** PHP. Виджеты используют Mustache-шаблоны.
 - **API:** REST, база `https://api.timepad.ru/v1`. Пример: `GET /v1/events/{event_id}`.
